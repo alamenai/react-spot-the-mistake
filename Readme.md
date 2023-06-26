@@ -37,3 +37,25 @@ You are allowed to return an array (an array of any type) as output in your Reac
 
 </p>
 </details>
+
+
+### [POST 2](https://www.linkedin.com/posts/alaedddine_react-activity-7077249277659377665-dv7c?utm_source=share&utm_medium=member_desktop)
+
+<img src="./snippets/sp-2.png">
+
+<br>
+
+<details><summary><b>Best Answer</b></summary>
+<p>
+
+##### By : [Amin Awinti](https://www.linkedin.com/in/aminawinti/)
+
+
+❌ laptopsList: will be treated as a built-in DOM element.
+
+✅ LaptopsList: All React component names must start with a capital letter.
+
+Considering key values, REZAZI MOHAMED ABDESSAMED, i think using random values is a bad practice, because it will cause the item to re-mount on every render, but not really a "mistake" for such static list, imo. .
+
+</p>
+</details>
